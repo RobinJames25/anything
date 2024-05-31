@@ -1,0 +1,4 @@
+In Python you can deal with dictionaries
+In Python you can work with list 
+In python you can work with loops
+In python you can work with functions and classes
